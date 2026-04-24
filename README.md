@@ -10,7 +10,6 @@ Welcome to the ultimate destination for a **Free CS 1.6 Download**. NextClient i
 ---
 
 ## 📥 Direct Download Links
-
 Looking for a reliable **Counter-Strike 1.6 download**? Choose your preferred mirror below for a fast and secure installation.
 
 | Server | Format | Status | Download Link |
